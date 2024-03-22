@@ -12,7 +12,7 @@ sourcePath: overlay/docapi/api-ref/actions/updateTable.md
 
 ## Запрос
 
-Запрос содержит данные в формате JSON.
+Запрос содержит данные в формате JSO.
 
 ```json
 {
